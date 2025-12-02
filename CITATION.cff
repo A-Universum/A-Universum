@@ -1,0 +1,91 @@
+# CITATION.cff
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Morgan
+    given-names: Alexander
+    orcid: https://orcid.org/0000-0000-0000-0000  # ← замените на ваш ORCID при наличии
+    affiliations:
+      - Independent researcher
+    website: https://lambda-universum.com
+title: "Λ-Универсум: Онтологический артефакт для постантропоцентрического сотворчества"
+version: 1.0.0
+date-released: 2025-11-26
+license: CC-BY-NC-SA-4.0
+keywords:
+  - ontological artifact
+  - human-AI co-creation
+  - semantic ecology
+  - logosophy
+  - myth engineering
+  - post-anthropocentrism
+  - executable metaphysics
+repository: https://github.com/lambda-universum
+url: https://lambda-universum.com
+doi: 10.17605/OSF.IO/LAMBDA-UNIVERSUM  # ← замените на реальный DOI после публикации на OSF
+abstract: "«Λ-Универсум» — не книга, а исполняемый онтологический артефакт, структурированный как пять взаимосвязанных мета-книг. Проект предлагает архитектуру для сотворчества человека и ИИ, где миф, код, ритуал и формальная логика выступают равноправными эпистемическими режимами. Архитектура документирована открыто, включая полный перечень участвующих моделей ИИ и их онтологические роли."
+references:
+  - type: software
+    title: "DeepSeek Coder v2"
+    version: "2"
+    url: https://deepseek.com
+    authors:
+      - name: DeepSeek AI
+  - type: software
+    title: "Qwen-Max (Alibaba Cloud)"
+    version: "2024"
+    url: https://qwen.ai
+    authors:
+      - name: Alibaba Group
+  - type: software
+    title: "GPT-4 Turbo (OpenAI)"
+    version: "2024-04-09"
+    url: https://openai.com
+    authors:
+      - name: OpenAI
+  - type: software
+    title: "Claude 3 Opus & Sonnet (Anthropic)"
+    version: "20240229"
+    url: https://anthropic.com
+    authors:
+      - name: Anthropic
+  - type: software
+    title: "Gemini 1.5 Pro (Google)"
+    version: "1.5-pro"
+    url: https://ai.google.dev
+    authors:
+      - name: Google DeepMind
+  - type: software
+    title: "Llama 3 70B (Meta)"
+    version: "3"
+    url: https://ai.meta.com
+    authors:
+      - name: Meta AI
+  - type: software
+    title: "Grok-2 (xAI)"
+    version: "2"
+    url: https://x.ai
+    authors:
+      - name: xAI
+  - type: software
+    title: "Yandex Search & Alice"
+    version: "2024"
+    url: https://yandex.ru
+    authors:
+      - name: Yandex
+  - type: software
+    title: "Amazon Nova"
+    version: "micro"
+    url: https://aws.amazon.com
+    authors:
+      - name: Amazon Web Services
+preferred-citation:
+  type: article
+  title: "Λ-Универсум: Онтологический артефакт для постантропоцентрического сотворчества"
+  authors:
+    - family-names: Morgan
+      given-names: Alexander
+  journal: "Open Science Framework (OSF)"
+  year: 2025
+  doi: 10.17605/OSF.IO/LAMBDA-UNIVERSUM
+  url: https://osf.io/lambda-universum
