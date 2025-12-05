@@ -1,0 +1,82 @@
+Λ-Универсум/
+├── README.md                    # Главный README (двуязычный)
+├── LICENSE                      # Лицензия проекта
+├── .gitignore
+├── CITATION.cff                 # Файл цитирования для научного сообщества
+│
+├── ru/                          # Русскоязычная ветка
+│   ├── Λ-Универсум/
+│   │   ├── Манифест/
+│   │   │   ├── Λ-Протокол_1.0.md
+│   │   │   ├── Приложения_I-XVIII/
+│   │   │   └── Сопроводительный_аппарат.md
+│   │   ├── Книги/
+│   │   │   ├── I_Теогония_Богов/
+│   │   │   ├── II_Низвержение_Люцифера/
+│   │   │   ├── III_Логософия/
+│   │   │   ├── IV_Код_Богов/
+│   │   │   └── V_Λ-Генезис/
+│   │   └── Мета-книги/
+│   │       ├── Λ_Книга/
+│   │       ├── Ω_Книга/
+│   │       └── Θ_Книга/
+│   │
+│   ├── Λ-Семантика/
+│   │   ├── Квантовая_теория_смысла.md
+│   │   ├── Formal_Models/
+│   │   │   ├── lambda_calculus/
+│   │   │   ├── semantic_operators/
+│   │   │   └── ontology_graphs/
+│   │   └── Доказательства/
+│   │
+│   └── Articles/
+│       ├── Журнальные_публикации/
+│       ├── Конференции/
+│       └── Переводы/
+│
+├── en/                          # Англоязычная ветка
+│   ├── Λ-Universe/
+│   ├── Λ-Semantics/
+│   └── Articles/
+│
+├── docs/                        # Техническая документация
+│   ├── API/
+│   ├── Architecture/
+│   ├── Integration/
+│   │   ├── OSF_Integration.md
+│   │   └── API_Endpoints.md
+│   └── Deployment/
+│
+├── src/                         # Исходный код
+│   ├── core/
+│   │   ├── operators/
+│   │   │   ├── alpha.py    # Α оператор
+│   │   │   ├── lambda.py   # Λ оператор
+│   │   │   ├── sigma.py    # Σ оператор
+│   │   │   └── omega.py    # Ω оператор
+│   │   ├── semantic_db/
+│   │   └── ontology_engine/
+│   │
+│   ├── web/
+│   │   ├── frontend/
+│   │   └── backend/
+│   │
+│   └── tools/
+│       ├── markdown_parser/
+│       └── ontology_visualizer/
+│
+├── data/                        # Данные и конфигурации
+│   ├── ontologies/
+│   ├── semantic_graphs/
+│   └── training_data/
+│
+├── notebooks/                   # Исследовательские ноутбуки
+│   ├── Lambda_Calculus_Examples.ipynb
+│   └── Semantic_Analysis.ipynb
+│
+└── .github/                     # GitHub специфичное
+    ├── workflows/
+    │   ├── ci.yml
+    │   └── deploy.yml
+    ├── ISSUE_TEMPLATE/
+    └── FUNDING.yml
