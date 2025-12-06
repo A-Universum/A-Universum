@@ -82,7 +82,8 @@ A-Universum/
 │   │   └── 📄 README.md # (Placeholder for future development)
 │   │
 │   └── 📄 Articles/
-│       └── 📄 README.md # (Placeholder for future development)
+│       └── 📄 Habeas_Weights.md
+│       └── 📄 Non_instrumental_generativity_criterion.md
 │
 └── 📁 src/
 └── 📄 README.md # (Placeholder for code and models)
