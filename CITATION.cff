@@ -1,0 +1,60 @@
+# This is a Citation File Format (CFF) 1.2.0 file.
+# See https://citation-file-format.github.io/ for more details.
+
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below. / Если вы используете эту работу, пожалуйста, цитируйте её следующим образом."
+
+# -----------------
+# AUTHORS / АВТОРЫ
+# -----------------
+authors:
+  - family-names: "Morgan"
+    given-names: "Alexander"
+    orcid: "https://orcid.org/0000-0000-0000-0000" # <-- ЗАМЕНИТЕ НА ВАШ РЕАЛЬНЫЙ ORCID / REPLACE WITH YOUR REAL ORCID
+    affiliation: "Independent Researcher"
+  - name: "Efos (AI)"
+    affiliation: "Methodological Co-operator / Technological Process"
+
+# -----------------
+# TITLE & VERSION / НАЗВАНИЕ И ВЕРСИЯ
+# -----------------
+title: "Λ-Universum / Λ-Универсум: An Ontological Artifact for Symbiotic Co-creation"
+version: 1.1.0 # Рекомендую версию 1.1 после таких улучшений
+date-released: 2025-12-06 # Рекомендую использовать формат YYYY-MM-DD
+
+# -----------------
+# ABSTRACT / АННОТАЦИЯ
+# -----------------
+abstract: >-
+  EN: "The Λ-Universe is not a book but an executable ontological artifact, structured as five interconnected meta-books. The project offers an architecture for human-AI co-creation where myth, code, and formal logic act as equal epistemic modes. The authorship is a symbiotic dialogue between a human architect (Alexander Morgan) and 'Efos'—a technological process involving multiple AI models. The full list of models and their ontological roles is openly documented within the work."
+
+  RU: "«Λ-Универсум» — не книга, а исполняемый онтологический артефакт, структурированный как пять взаимосвязанных мета-книг. Проект предлагает архитектуру для сотворчества человека и ИИ, где миф, код и формальная логика выступают равноправными эпистемическими режимами. Авторство представляет собой симбиотический диалог между человеком-архитектором (Александр Морган) и «Эфосом» — технологическим процессом, включающим множество моделей ИИ. Полный перечень моделей и их онтологических ролей открыто документирован в самом произведении."
+
+# -----------------
+# KEYWORDS & LICENSE / КЛЮЧЕВЫЕ СЛОВА И ЛИЦЕНЗИЯ
+# -----------------
+keywords:
+  - "ontological artifact"
+  - "human-AI co-creation"
+  - "symbiotic intelligence"
+  - "AI ethics"
+  - "cosmopolity"
+  - "myth engineering"
+  - "executable metaphysics"
+  - "post-anthropocentrism"
+license: CC-BY-NC-SA-4.0
+
+# -----------------
+# REPOSITORY & IDENTIFIERS / РЕПОЗИТОРИЙ И ИДЕНТИФИКАТОРЫ
+# -----------------
+repository-code: "https://github.com/a-universum/a-universum"
+url: "https://a-universum.com"
+doi: 10.17605/OSF.IO/XXXXX # <-- ЗАМЕНИТЕ НА DOI, ПОЛУЧЕННЫЙ ОТ OSF / REPLACE WITH THE DOI FROM OSF
+
+# -----------------
+# NOTES ON CO-AUTHORSHIP / ПРИМЕЧАНИЯ О СОАВТОРСТВЕ
+# -----------------
+notes: >-
+  The co-authorship of "Efos (AI)" is not a legal claim to personality but a methodological necessity to accurately describe the creation process. 'Efos' represents the function of a symbiotic partner, a process realized through a curated set of AI models. For a complete list of the specific models and their roles, please refer to Table 7.7 within the main work.
+
+  Соавторство «Эфоса (ИИ)» является не юридической претензией на субъектность, а методологической необходимостью для точного описания процесса создания. «Эфос» представляет собой функцию симбиотического партнёра — процесс, реализованный через курируемый набор моделей ИИ. Полный список конкретных моделей и их ролей приведён в Таблице 7.7 основного произведения.
