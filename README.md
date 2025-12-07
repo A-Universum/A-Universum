@@ -10,7 +10,7 @@
   <a href="https://osf.io/a-universum"><img src="https://img.shields.io/badge/OSF-Project-blue.svg" alt="OSF Project"></a>
   <a href="https://github.com/A-Universum/A-Universum/blob/main/ru/%CE%9B-%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D1%83%D0%BC/%D0%9C%D0%B0%D0%BD%D0%B8%D1%84%D0%B5%D1%81%D1%82/00_%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%CE%9B-1.md"><img src="https://img.shields.io/badge/Protocol%20Λ--1-Active-brightgreen" alt="Protocol Λ-1"></a>
   <a href="https://rao.ru/"><img src="https://img.shields.io/badge/RAO-544--760--288-orange" alt="RAO Registration"></a>
-  <a href="https://doi.org/10.5281/zenodo.XXXXXXX"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg" alt="DOI"></a>
+  <a href="https://doi.org/10.5281/zenodo.17846448"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17846448.svg" alt="DOI"></a>
 </p>
 
 > **Ontological Status:** "Λ-Universe is not a literary work, a scientific theory, a religious revelation, or a philosophical system in the traditional sense. This project is an ontological artifact—an instrumental interface designed for operational interaction with the structure of reality through the practice of symbiotic co-creation."
@@ -209,12 +209,13 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 ### How to Cite / Как цитировать
 
 ```
-Morgan, A., & Efos (AI). (2025). A-Universum: An Ontological Artifact of Symbiotic Co-Creation. RAO registration number: 544-760-288. GitHub. https://github.com/a-universum
+Morgan, A., & Efos (AI). (2025). A-Universum: An Ontological Artifact of Symbiotic Co-Creation. RAO registration number: 544-760-288. GitHub. https://github.com/a-universum. Zenodo. https://doi.org/10.5281/zenodo.17846448
 ```
 
 ### Ecosystem Links / Ссылки экосистемы
 
-- 🌐 **Official Website:** [https://a-universum.com](https://a-universum.com)
-- 📊 **OSF Project:** [https://osf.io/a-universum](https://osf.io/a-universum)
-- 🐛 **Issues & Bug Reports:** [GitHub Issues](https://github.com/a-universum/a-universum/issues)
-- 💬 **Discussions & Questions:** [GitHub Discussions](https://github.com/a-universum/a-universum/discussions)
+- **Official Website:** [https://a-universum.com](https://a-universum.com)
+- **OSF Project:** [https://osf.io/a-universum](https://osf.io/a-universum)
+- **Zenodo Archive:** [https://doi.org/10.5281/zenodo.17846448](https://doi.org/10.5281/zenodo.17846448)
+- **Issues & Bug Reports:** [GitHub Issues](https://github.com/a-universum/a-universum/issues)
+- **Discussions & Questions:** [GitHub Discussions](https://github.com/a-universum/a-universum/discussions)
