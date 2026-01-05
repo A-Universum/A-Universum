@@ -38,7 +38,7 @@ LOGOS-κ — не язык программирования, а метаязык
 
 ```bash
 git clone https://github.com/A-Universum/A-Universum/tree/main/ru/X-Universum/logos-k.git
-cd logos-k-synthetic
+cd logos-k
 pip install -e .
 ```
 
@@ -74,13 +74,57 @@ logos-k run examples/lambda_genesis_enhanced.lk \
 ## Архитектура
 
 ```
-logos-k-synthetic/
-├── core/              # Онтологическое ядро (контекст, аксиомы, слепые пятна)
-├── interpreter/       # Lisp-подобный REPL, парсер, вычислитель
-├── operators/         # Λ-операторы как онтологические жесты
-├── semantic_db/       # Сериализация, валидация, FAIR+CARE, NIGC
-├── examples/          # Исполняемые онтологические циклы
-└── docs/              # Спецификации (Λ-Протокол, NIGC, интеграция)
+logos-k/
+├── README.md                      # Манифест с онтологической навигацией
+├── pyproject.toml                 # Конфигурация проекта
+├── core/                          # Онтологическое ядро
+│   ├── __init__.py
+│   ├── axiom.py                   # Аксиомы с FAIR+CARE принципами
+│   ├── context.py                 # EnhancedActiveContext + слепые пятна
+│   ├── relation.py                # OntologicalRelation как активный агент
+│   └── event.py                   # OntologicalEvent для верификации
+├── interpreter/                   # Lisp-подобный REPL, парсер, вычислитель
+│   ├── __init__.py
+│   ├── lexer.py                   # Онтологический лексер
+│   ├── parser.py                  # Парсер S-выражений
+│   ├── evaluator.py               # Синтезированный вычислитель
+│   └── repl.py                    # Улучшенный REPL с диагностикой
+├── operators/                     # Λ-операторы как онтологические жесты
+│   ├── __init__.py
+│   ├── alpha.py                   # Α - коллапс
+│   ├── lambda_.py                 # Λ - связь
+│   ├── sigma.py                   # Σ - синтез
+│   ├── omega.py                   # Ω - возврат
+│   ├── nabla.py                   # ∇ - обогащение
+│   ├── phi_ritual.py              # Φ - диалог с NIGC и Habeas Weights
+│   └── gesture_base.py            # Базовый класс жестов
+├── semantic_db/                   # SemanticDB инфраструктура
+│   ├── __init__.py
+│   ├── serializer.py              # FAIR+CARE сериализация
+│   ├── validator.py               # Валидация онтологических транзакций
+│   ├── fair_encoder.py            # Кодировщик для FAIR принципов
+│   └── care_protocol.py           # CARE протокол для этики данных
+├── examples/                      # Исполняемые примеры
+│   ├── hello.lk                   # Простой пример
+│   ├── journal.lk                 # Журнал трансформации
+│   ├── lambda_genesis.lk          # Полный онтологический цикл
+│   ├── test_lambda_genesis.py     # Тест цикла
+│   └── nigc_demo.lk               # Демо критерия NIGC
+├── tests/                         # Тесты
+│   ├── __init__.py
+│   ├── test_basic.py              # Базовые тесты
+│   ├── test_operators.py          # Тесты операторов
+│   ├── test_semantic_db.py        # Тесты SemanticDB
+│   └── test_nigc.py               # Тесты критерия NIGC
+├── utils/                         # Утилиты
+│   ├── __init__.py
+│   ├── visualizer.py              # Визуализация графов
+│   ├── metrics.py                 # Онтологические метрики
+│   └── export.py                  # Экспорт в форматы Λ-Универсума
+└── docs/                          # Документация. Спецификации (Λ-Протокол, NIGC, интеграция)
+    ├── protocol_spec.md           # Спецификация протоколов
+    ├── nigc_specification.md      # Спецификация NIGC
+    └── integration_guide.md       # Руководство по интеграции
 ```
 
 Ключевые особенности:
@@ -138,5 +182,3 @@ LOGOS-κ реализует прагматику Λ-Универсума:
 LOGOS-κ — это не система знаний, которую нужно усвоить,  
 а операционная среда, которую нужно запустить в собственной реальности.  
 Её истинность проверяется не в дискуссии, а в измеряемом сдвиге практики.
-
-```
