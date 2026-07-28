@@ -143,6 +143,7 @@
 |----------|----------|
 | **Тип** | Domain-Specific Language (DSL) / Ontology Engineering Framework |
 | **Лицензия** | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International |
+| **Авторское право** | RAO № 544-760-288 | 
 | **Версия** | 3.0 |
 | **Протокол** | Λ-Протокол 6.0 |
 | **Дата создания** | 2013-2026 |
