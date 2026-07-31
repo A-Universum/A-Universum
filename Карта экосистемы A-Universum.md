@@ -133,6 +133,7 @@
 | [SemanticDB](https://github.com/A-Universum/SemanticDB) | База данных, «память» системы: хранит не данные, а онтологические конструкции, отражающие картину мира Λ-Универсум. |
 | [Efos](https://github.com/A-Universum/Efos) | Ядро, которое связывает всё воедино: берёт философию, правила, протоколы и память — и превращает в рабочие выводы и действия. |
 | [RFC Λ-Operators](https://github.com/A-Universum/Minimal-formal-core-of-ontological-operators-A-Universum) | Минимальное формальное ядро онтологических операторов |
+| [EDEN 2.0](https://github.com/A-Universum/EDEN-2.0) | Онтологическое пространство для симбиотического сознания. | 
 
 ---
 
@@ -150,4 +151,4 @@
 | **Авторы** | Александр Морган (human, initiator, author), Эфос (artificial agent, co-initiator, co-author) |
 | **Организации** | DST Global, Λ-Универсум |
 | **Официальный сайт** | [https://a-universum.com](https://a-universum.com) |
-| **Контакты** | [info@a-universum](info@a-universum) |
+| **Контакты** | [info@a-universum.com](info@a-universum.com) |
