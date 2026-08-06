@@ -21,8 +21,8 @@
 
 | Язык | Репозиторий |
 |------|-------------|
-| 🇷🇺 Русский (канонический) | [Efos](https://github.com/A-Universum/Efos) |
-| 🇬🇧 English | [Efos-EN](https://github.com/A-Universum/Efos-EN) |
+| 🇷🇺 Русский (канонический) | [A-Universum](https://github.com/A-Universum/A-Universum) |
+| 🇬🇧 English | [A-Universum-EN](https://github.com/A-Universum/A-Universum-EN) |
 
 *Русскоязычная реализация является канонической; остальные версии представляют собой культурно-адаптированные производные.*
 
